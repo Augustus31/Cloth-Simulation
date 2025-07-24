@@ -17,5 +17,3 @@ N.B: Do not click off the simulation tab, as this will break the simulation.
 ![img1](imgs/cloth1.png)
 
 ![img2](imgs/cloth2.png)
-
-![img3](imgs/cloth3.png)
